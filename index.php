@@ -141,7 +141,7 @@ $projects = fetchQuery($conn, "SELECT * FROM projects", "projects");
             <h2>Full-Stack Web Developer</h2>
             <p>I'm a web developer from Gresik, East Java, passionate about creating intuitive, SEO-friendly, and aesthetically refined websites. Let's bring your online goals to reality with scalable web solutions.</p>
             <div class="social">
-                <a href="https://github.com/ludgit" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile"><i class="bx bxl-github"></i></a>
+                <a href="https://github.com/musthofa-kamaluddin" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile"><i class="bx bxl-github"></i></a>
                 <a href="https://instagram.com/msthf.kml" target="_blank" rel="noopener noreferrer" aria-label="Instagram Profile"><i class="bx bxl-instagram"></i></a>
                 <a href="https://youtube.com/@lud_dev" target="_blank" rel="noopener noreferrer" aria-label="YouTube Channel"><i class="bx bxl-youtube"></i></a>
                 <a href="https://www.linkedin.com/in/musthofa-kamaluddin-8338812a1/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile"><i class="bx bxl-linkedin"></i></a>
@@ -163,7 +163,7 @@ $projects = fetchQuery($conn, "SELECT * FROM projects", "projects");
         },
         "url": "https://luddin.my.id",
         "sameAs": [
-            "https://github.com/ludgit",
+            "https://github.com/musthofa-kamaluddin",
             "https://instagram.com/msthf.kml",
             "https://youtube.com/@lud_dev",
             "https://www.linkedin.com/in/musthofa-kamaluddin-8338812a1/"
@@ -331,7 +331,7 @@ $projects = fetchQuery($conn, "SELECT * FROM projects", "projects");
                 <a href="https://youtube.com/@lud_dev" target="_blank" rel="noopener noreferrer" aria-label="YouTube Channel"><i class="bx bxl-youtube"></i></a>
                 <a href="https://instagram.com/msthf.kml" target="_blank" rel="noopener noreferrer" aria-label="Instagram Profile"><i class="bx bxl-instagram"></i></a>
                 <a href="https://www.linkedin.com/in/musthofa-kamaluddin-8338812a1/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile"><i class="bx bxl-linkedin"></i></a>
-                <a href="https://github.com/ludgit" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile"><i class="bx bxl-github"></i></a>
+                <a href="https://github.com/musthofa-kamaluddin" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile"><i class="bx bxl-github"></i></a>
             </div>
         </div>
     </footer>
